@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    .display-font {
+        font-family: var(--wp--preset--font-family--big-shoulders-display);
+        font-weight: 900;
+        @apply tracking-tight uppercase;
+    }
+
+    .heading-xl {
+        font-size: var(--wp--preset--font-size--custom-6);
+        @apply leading-[88px];
+    }
+
+    .wp-block-social-links .is-style-logos-only {
+        @apply list-none
+    }
+}

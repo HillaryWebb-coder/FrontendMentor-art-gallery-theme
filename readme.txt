@@ -12,7 +12,6 @@ License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 This theme is created as a solution to the art gallery website on frontend mentor
 
-
 == Changelog ==
 
 = 1.0.0 =
